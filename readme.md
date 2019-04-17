@@ -1,5 +1,1 @@
-# Read Me for *Insert Project Name here*
-
-## Project Summary
-
-## Project Requirements see requirements.md
+# frameWorx is genreic project structuring based on PowerShell
