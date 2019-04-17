@@ -1,1 +1,1 @@
-# frameWorx is genreic project structuring based on PowerShell
+# frameWorx is a genreic project structuring based on PowerShell
